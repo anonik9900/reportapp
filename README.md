@@ -1,6 +1,7 @@
 
 # reportapp
-Simply reporting Python GUI Application that i use for my work
+Simple Python GUI reporting application that I use for my work
+
 
 <h1>Buil .Exe</h1>
 
